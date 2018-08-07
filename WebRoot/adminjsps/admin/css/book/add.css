@@ -1,0 +1,58 @@
+body {
+	font-size: 10pt;
+	color: #404040;
+	font-family: SimSun;
+}
+
+table {
+	font-size: 10pt;
+	margin-top: 15px;
+	margin-left: 50px;
+	width: 680px;
+}
+
+td {
+	height: 25px;
+	line-height: 40px;
+}
+
+.tp {
+	border: 1px solid #dcdcdc;
+	float: left;
+}
+input {padding: 5px;}
+ul {
+	list-style: none;
+}
+
+li {
+	margin: 10px;
+	line-height: 30px;
+}
+
+.btn {
+	border: 0;
+	width: 142px;
+	height: 33px;
+	margin-top: 10px;
+	font-size: 18px;
+	font-weight: 900;
+	text-align: left;
+	padding-top: 1px;
+	padding-left: 32px;
+	color: #fff;
+	font-family: 黑体;
+	background: #18BC9C;
+	border-radius: 6px;
+}
+
+.btn1 {
+	background: url(/images/hong_2_btn.jpg) left top
+		no-repeat;
+}
+
+.btn2 {
+	background: url(/images/hong_1_btn.jpg) left top
+		no-repeat;
+}
+.box select {padding: 8px;width: 150px;}

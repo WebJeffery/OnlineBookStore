@@ -1,0 +1,161 @@
+table {
+	font-size: 10pt;
+	width: 900px;
+}
+
+.tt {
+	border-top: 1px solid #e1ddd4;
+	border-bottom: 1px solid #e1ddd4;
+	height: 30px;
+	background-color: #f9f8f3;
+}
+
+.td {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+body {
+	font-size: 10pt;
+	color: #404040;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #018BD3;
+}
+
+a:hover {
+	color: #FF6600;
+	text-decoration: underline;
+}
+.divOrder {
+	width: 90%;
+	font-weight: 900;
+	font-size: 15px;
+	padding: 20px;
+	margin-left: 100px;
+}
+
+.divRow {
+	width: 1100px;
+	margin-left: 100px;
+	border: 2px solid #e9c9b2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.divContent {
+	border-bottom: 1px solid #f2e2d4;
+}
+
+dt {
+	font-weight: 900;
+	font-size: 15px;
+	margin: 5px;
+}
+
+.title {
+	border: 1px solid #d0d0d0;
+	background: url(/images/bg_btns.png) repeat-x;
+	background-position: 0 -132px;
+	margin-left: 2px;
+	height: 30px;
+	width: 99.8%;
+}
+
+td .bookname {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-break: keep-all;
+	white-space: nowrap;
+	width: 300px;
+}
+
+.pay {
+	background: url(/images/sprites_orderdetails.gif)
+		no-repeat;
+	display: inline-block;
+	background-position: 0 -200px;
+	height: 34px;
+	width: 142px;
+	margin-top: 10px;
+}
+
+.price_t {
+	font-size: 15px;
+	color: #c30;
+	font-weight: bold;
+	padding-right: 10px;
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+.tab a:visited {
+	color: #018BD3;
+}
+
+.tab a:hover {
+	color: #FF6600;
+	text-decoration: underline;
+}
+
+#confirm {
+	background: #18BC9C;
+	display: inline-block;
+	height: 34px;
+	width: 142px;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	text-align: left;
+	padding-top: 6px;
+	padding-left: 30px;
+	border-radius: 5px;
+}
+
+#cancel {
+	background: #ff0000;
+	display: inline-block;
+	height: 34px;
+	width: 142px;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	text-align: left;
+	padding-top: 6px;
+	padding-left: 30px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.spanTotal {
+	font-weight: 900;
+	font-size: 15px;
+}
+
+.divBtn {
+	margin: 10px 10px 10px 900px;
+}
+
+#deliver {
+	border-radius: 5px;
+	background: #1df456;
+	display: inline-block;
+	height: 34px;
+	width: 142px;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	text-align: left;
+	padding-top: 6px;
+	padding-left: 60px;
+	text-decoration: none;
+}

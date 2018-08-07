@@ -1,0 +1,79 @@
+body {
+	font-size: 14px;
+	color: #404040;
+	font-family: Arial;
+}
+.box {
+	width: 600px;
+	margin: 100px auto;
+	font-size: 16px;
+	background-color: #d0d0d0;
+	padding-bottom: 40px;
+}
+.div0 {
+	text-align: center;
+	padding: 20px 0;
+}
+.div0 span {
+	display: inline-block;
+	font-size: 24px;
+	text-align: center;
+	font-width: 900;
+
+}
+.div1 {
+
+	margin-left: 80px;
+	margin-bottom: 0px;
+	font-size: 12px;
+
+}
+.div1 input {
+	width: 250px;
+	height: 30px;
+	padding: 8px;
+	line-height: 30px;
+	margin-left: 15px;
+}
+table {
+	font-size: 10pt;
+	color: #404040;
+	font-family: Arial;
+	margin-left: 20px;
+}
+tr {
+	line-height: 50px;
+}
+.bc {
+	width: 80px;
+	height: 20px;
+	margin-left: 15px;
+}
+
+#vCode {
+	margin-left: 15px;
+}
+
+#verifyCode {
+	width: 140px;
+	height: 40px;
+}
+
+label.error {
+	color: #cc3300;
+}
+.div1 .updatepwd {
+	width: 250px;
+	height: 40px;
+	background-color: #39AC6A;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	margin-top: 20px
+}
+.vertify img {
+	position: relative;
+	top: 14px;
+}

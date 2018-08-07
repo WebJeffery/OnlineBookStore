@@ -1,0 +1,34 @@
+body,ul, li, p,img, div { margin: 0; padding: 0; list-style-type: none; font-size: 12px;}
+/* clearfix清除浮动 */
+.clearfix:after {
+      content: "";
+      height: 0;
+      visibility: hidden;
+      display: block;
+      clear: both;
+    }
+ .clearfix {
+      zoom:1;
+ }
+.booklist {
+	background: #F5F5F5;
+}
+.booklist li {float: left; width: 23%; height: 340px; line-height: 18px;
+position: relative;margin: 0 10px 10px 10px;padding-top: 10px;
+background: #fff;transition: all 2;}
+.booklist li:hover {transform:translateY(-5px);box-shadow:8px 8px 5px rgba(0,0,0,0.3);}
+.pic { display: block; position: relative; margin-bottom: 3px;text-align: center;}
+.inner {width: 100%; height: 100%;overflow:hidden;text-overflow:ellipsis;
+word-break:keep-all;white-space:nowrap;position: absolute; }
+.inner p {padding-left: 46px; line-height: 24px;color: #b0b0b0; 
+}
+
+
+
+.price {padding-bottom: 3px; color: #878787; }
+.price_n {color: #c30; font-weight: bold; padding-right: 10px; font-family: Arial; }
+.price_s {color: #c30; font-family: Arial; }
+.price_r {color: #878787; text-decoration: line-through; padding-right: 10px; font-family: Arial; }
+#bookname {font-size: 14px; color:#333; display: block; overflow: hidden; width: 200px;
+font-family: Arial; text-decoration: none;}
+#bookname:hover {color:#FF6600; }

@@ -1,0 +1,21 @@
+.box {width: 400px;height: 400px;background: #F5F5F5;margin: 100px auto;padding: 20px;
+			border-radius: 10px;}
+	.box h3 {text-align: center;margin-bottom: 40px;}
+	#cname {width: 200px;height: 30px; padding:4px;margin-bottom: 10px;outline: none;}
+	.box .add,.box .back {    
+		display: block;
+	    width: 200px;
+	    height: 40px;
+	    line-height: 40px;
+	    background: #18BC9C;
+	    margin: 10px 0;
+	    border: none;
+	    border-radius: 5px;
+	    text-align: center;
+	    color: #fff;
+	    font-weight: bold;
+	    letter-spacing: 5px;
+	    margin-left: 86px;}
+	.box .back {background: #E74C3C;}
+	.box .desc {display: inline-block;position: relative;top: -50px;}
+	.box textarea {display: inline-block;width: 300px;height: 100px;}

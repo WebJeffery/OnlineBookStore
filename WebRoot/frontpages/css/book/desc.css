@@ -1,0 +1,20 @@
+a {text-decoration: none; color: #018BD3;}
+a:visited {color: #018BD3;}
+a:hover {color:#FF6600; text-decoration: underline;}
+body {font-size: 10pt;color: #404040;font-family: SimSun;}
+table {font-size: 10pt;margin-top: 15px;width: 500px;line-height: 30px;font-size: 16px;padding-left: 8px;}
+td{height: 25px;}
+.divBookName {font-size: 13pt; font-weight: 900; margin-bottom: 30px;}
+.img_image_w {border: 1px solid #dcdcdc; float: left;height: 430px;}
+.divBookDesc{float:left;width: 500px;}
+.bookContent{margin-left: 50px;background: #FAFFFF;padding: 11px;
+    border-radius: 10px;}
+.divBookDesc h3 {white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.divBookDesc ul {background: #FAFFFF;}
+.spanPrice {text-decoration:line-through;}
+.price_n {color: #c30; font-weight: bold; padding-right: 10px; font-family: Arial; font-size: 20pt; }
+ul {list-style: none;padding:0;}
+li {margin: 10px;font-size: 16px;}
+#btn {background: url(/OnlineBookstore/images/all.png) no-repeat;display: inline-block;background-position: 0 -828px;
+height: 36px;width: 146px;border-radius: 10px;}
+.divForm {background-color: #38C2DC;margin: 15px 0 0 50px; padding:20px;border-radius: 10px;}

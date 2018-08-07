@@ -1,0 +1,108 @@
+table {
+	font-size: 10pt;
+	width: 700px;
+}
+
+.tt {
+	border-top: 1px solid #e1ddd4;
+	border-bottom: 1px solid #e1ddd4;
+	height: 30px;
+	background-color: #f9f8f3;
+}
+
+.td {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+body {
+	font-size: 10pt;
+	color: #404040;
+}
+
+a {
+	text-decoration: none;
+	color: #018BD3;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.divOrder {
+	width: 90%;
+	font-weight: 900;
+	font-size: 15px;
+	padding: 20px;
+	margin-left: 100px;
+}
+
+.divContent {
+	width: 750px;
+	margin-left: 100px;
+	border: 2px solid #e9c9b2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.div2 {
+	border-bottom: 1px solid #f2e2d4;
+}
+
+dt {
+	font-weight: 900;
+	font-size: 15px;
+	margin: 5px;
+}
+
+.title {
+	border: 1px solid #d0d0d0;
+	background: url(/goods/images/bg_btns.png) repeat-x;
+	background-position: 0 -132px;
+	margin-left: 2px;
+	height: 30px;
+	width: 99.8%;
+}
+
+td .bookname {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-break: keep-all;
+	white-space: nowrap;
+	width: 300px;
+}
+
+.pay, #confirm, #cancel{
+	background: #32AEA3;
+	line-height: 34px;
+	text-align: center;
+	display: inline-block;
+	height: 34px;
+	width: 142px;
+	margin-top: 10px;
+	color: #fff;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.price_t {
+	font-size: 15px;
+	color: #c30;
+	font-weight: bold;
+	padding-right: 10px;
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+#confirm {
+	background: #EF5B00;
+}
+
+#cancel {
+	background: #E4393C;
+}

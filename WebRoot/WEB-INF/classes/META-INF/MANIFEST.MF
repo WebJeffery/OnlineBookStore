@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.1.1.jar commons-lang-2.1.jar itcast-tool
+ s-1.4.jar commons-dbutils-1.4.jar commons-beanutils-1.8.3.jar mail.ja
+ r commons-io-1.4.jar c3p0-oracle-thin-extras-0.9.2-pre1.jar activatio
+ n.jar c3p0-0.9.2-pre1.jar mchange-commons-0.2.jar mysql-connector-jav
+ a-5.1.13-bin.jar commons-collections-3.0.jar commons-fileupload-1.2.2
+ .jar log4j-1.2.9.jar jstl-1.2.jar jsf-api.jar jsf-impl.jar javaee.jar
+  mail.jar javaee.jar jsf-api.jar jsf-impl.jar jstl-1.2.jar activation
+ .jar log4j-1.2.9.jar commons-io-1.4.jar c3p0-0.9.2-pre1.jar commons-l
+ ang-2.1.jar itcast-tools-1.4.jar commons-dbutils-1.4.jar mchange-comm
+ ons-0.2.jar commons-logging-1.1.1.jar commons-beanutils-1.8.3.jar com
+ mons-collections-3.0.jar commons-fileupload-1.2.2.jar mysql-connector
+ -java-5.1.13-bin.jar c3p0-oracle-thin-extras-0.9.2-pre1.jar
+Main-Class: 
+
